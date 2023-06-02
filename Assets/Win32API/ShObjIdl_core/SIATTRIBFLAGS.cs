@@ -1,0 +1,12 @@
+﻿namespace Win32API.ShObjIdl_core
+{
+    [System.Flags]
+    public enum SIATTRIBFLAGS : uint
+    {
+        SIATTRIBFLAGS_AND = 0x00000001,
+        SIATTRIBFLAGS_OR = 0x00000002,
+        SIATTRIBFLAGS_APPCOMPAT = 0x00000003,
+        SIATTRIBFLAGS_MASK = 0x00000003,
+        SIATTRIBFLAGS_ALLITEMS = 0x00004000,
+    }
+}
