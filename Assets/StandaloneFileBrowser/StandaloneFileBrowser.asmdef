@@ -1,0 +1,21 @@
+{
+    "name": "StandaloneFileBrowser",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b4615c6282159c541a7b5e14854cc754"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WSA",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
